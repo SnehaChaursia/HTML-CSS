@@ -1,0 +1,43 @@
+CSS- cascading style sheets.
+CSS is a language that describes the style of an HTML document
+
+ inline style: 
+ internal style:
+ externa stylesheet:
+
+color property {foreground}:
+rgb:(0-255;0-255;0-255)
+Hex color_system:0-9,abcdef(r,g,b) #00ff00-green
+
+selectors: *{                       *-asterisk
+            universal selector      &-ampersand
+}
+
+element selector: h1{
+
+}
+
+id selector{
+    #myid{} id name 
+}
+*never give same id to multiple element for same changes 
+.class {
+    for same change in multiple element
+}
+
+<div> Element: The </</div> is a block-level HTML element often used as a container to structure sections of a webpage.
+inline>internal>external style
+
+text-align:left,right ,centre.
+
+text-decoration:underline,overline,line-through
+font -weight: normal/bold/bolder/lighter
+font-weight:100-900
+font-family:
+
+
+Absolute:
+96px=1inch=2.54cm
+font-size:2px
+line -height=__px
+text0-transform:uupercase/lowercase/capitalize/none
